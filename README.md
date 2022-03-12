@@ -8,7 +8,7 @@
 </h4>
 
 ### 😊 Objetivo
-<p align="left">Refatorar um projeto antigo que havia feito quando comecei a estudar react. Na época, havia feito apenas com useState, gerando o problema do *prop drilling*. Refatorei implementando ContextAPI + Reducer, criando meu próprio Hook, adicionando responsibilidade às páginas e implementando Typescript no projeto.
+<p align="left">Refatorar um projeto antigo que havia feito quando comecei a estudar react. Na época, havia feito apenas com useState, gerando o problema do <i>prop drilling</i>. Refatorei implementando ContextAPI + Reducer, criando meu próprio Hook, adicionando responsibilidade às páginas e implementando Typescript no projeto.
 </p>
 
 ### Funcionalidades
